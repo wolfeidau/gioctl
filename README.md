@@ -1,4 +1,4 @@
-# gioctl
+# gioctl [![GoDoc](https://img.shields.io/badge/godoc-Reference-brightgreen.svg?style=flat)](http://godoc.org/github.com/wolfeidau/gioctl)
 
 Simple library which provides golang versions of the ioctl macros in linux.
 
